@@ -1,6 +1,6 @@
 
 provider "aws" {
-  region = "us-west-2"
+  region = "us-east-1"
 }
 
 resource "aws_iam_user" "lb" {
