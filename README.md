@@ -1,2 +1,3 @@
 # tf-splat-expression
-using splat expression to see all created resources specific attribute.
+Using splat expression to see all created resources specific attribute.
+Also using zipmap function to better map the outputs.
